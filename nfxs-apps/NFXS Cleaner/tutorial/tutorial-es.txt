@@ -1,0 +1,27 @@
+NFXS | CACHE CLEANER
+=====================
+
+CÓMO ABRIR
+----------
+Abre "NFXS Hub" y haz clic en el cuadro "NFXS Cleaner".
+
+La primera vez, Windows puede mostrar "Windows protegió tu PC". Haz
+clic en "Más información" y luego en "Ejecutar de todas formas".
+
+
+PASO A PASO
+-----------
+1. Elige el juego: FiveM o RedM.
+2. Elige el modo: "Limpieza rápida (recomendado)" o "Limpieza completa".
+3. Haz clic en "Limpiar".
+4. Listo - si quieres, marca "Abrir el juego después de limpiar" antes
+   del paso 3 para abrirlo enseguida.
+
+
+AYUDA
+-----
+Botón "Discord" dentro de la herramienta, o:
+https://discord.gg/6aD5DqUmEz
+
+
+Producto gratuito ofrecido por NunoFoxs | NFXS.

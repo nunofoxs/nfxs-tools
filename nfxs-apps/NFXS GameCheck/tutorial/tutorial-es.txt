@@ -1,0 +1,29 @@
+NFXS | GAME CHECK
+=================
+
+CÓMO ABRIR
+----------
+Abre "NFXS Hub" y haz clic en el cuadro "NFXS GameCheck".
+
+La primera vez, Windows puede mostrar "Windows protegió tu PC". Haz
+clic en "Más información" y luego en "Ejecutar de todas formas".
+
+
+PASO A PASO
+-----------
+1. Elige el juego: FiveM o RedM.
+2. La herramienta ya muestra el diagnóstico completo: instalación,
+   GTA V/RDR2, mods gráficos, compatibilidad, componentes necesarios,
+   caché, disco y si el juego está abierto.
+3. ¿Apareció "Caché elevado" o algo parecido? Haz clic en el enlace para
+   abrir NFXS Cleaner directamente.
+4. ¿Resolviste algo? Haz clic en "Verificar de nuevo".
+
+
+AYUDA
+-----
+Botón "Discord" dentro de la herramienta, o:
+https://discord.gg/6aD5DqUmEz
+
+
+Producto gratuito ofrecido por NunoFoxs | NFXS.

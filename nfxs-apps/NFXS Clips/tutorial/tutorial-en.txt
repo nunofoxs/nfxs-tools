@@ -1,0 +1,33 @@
+NFXS | CLIPS
+============
+
+HOW TO OPEN
+-----------
+Open "NFXS Hub" and click the "NFXS Clips" tile.
+
+The first time, Windows may show "Windows protected your PC". Click
+"More info" and then "Run anyway".
+
+This tool does NOT record anything - Windows itself does the recording
+(Win+Alt+G saves the last 30s, Win+Alt+R starts/stops recording,
+Win+Alt+PrtScn takes a screenshot). NFXS Clips just organizes what's
+already been saved that way.
+
+
+STEP BY STEP
+------------
+1. The tool immediately shows your most recent FiveM/RedM screenshots
+   and clips, with a thumbnail.
+2. Click one to open it with your PC's default app.
+3. Can't find the recorder? Click "Open Windows Game Bar (Win+G)".
+4. Want to see every file? Click "Open captures folder".
+5. Recorded something new? Click "Check again".
+
+
+HELP
+----
+"Discord" button inside the tool, or:
+https://discord.gg/6aD5DqUmEz
+
+
+Free product provided by NunoFoxs | NFXS.

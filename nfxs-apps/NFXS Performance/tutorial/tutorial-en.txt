@@ -1,0 +1,29 @@
+NFXS | PERFORMANCE
+===================
+
+HOW TO OPEN
+-----------
+Open "NFXS Hub" and click the "NFXS Performance" tile.
+
+The first time, Windows may show "Windows protected your PC". Click
+"More info" and then "Run anyway".
+
+
+STEP BY STEP
+------------
+1. Choose the game: FiveM or RedM.
+2. The tool immediately shows: Windows, CPU, RAM, graphics card, and
+   free disk space on the game's drive - green when it meets the
+   official requirement, red when it's below it.
+3. At the bottom, a summary: "Meets requirements" or "Below
+   requirements".
+4. Want to check again? Click "Check again".
+
+
+HELP
+----
+"Discord" button inside the tool, or:
+https://discord.gg/6aD5DqUmEz
+
+
+Free product provided by NunoFoxs | NFXS.

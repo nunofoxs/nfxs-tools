@@ -1,0 +1,33 @@
+NFXS | CLIPS
+============
+
+COMO ABRIR
+----------
+Abra o "NFXS Hub" e clique no quadro "NFXS Clips".
+
+Na primeira vez, o Windows pode mostrar "O Windows protegeu o seu PC".
+Clique em "Mais informações" e depois "Executar assim mesmo".
+
+Essa ferramenta NÃO grava nada - quem grava é o próprio Windows
+(Win+Alt+G salva os últimos 30s, Win+Alt+R inicia/para gravação,
+Win+Alt+PrtScn tira um print). O NFXS Clips só organiza o que já foi
+salvo dessa forma.
+
+
+PASSO A PASSO
+-------------
+1. A ferramenta já mostra os prints e clipes mais recentes de FiveM/RedM,
+   com miniatura.
+2. Clique em um pra abrir com o programa padrão do seu PC.
+3. Não achou o gravador? Clique em "Abrir gravador do Windows (Win+G)".
+4. Quer ver todos os arquivos? Clique em "Abrir pasta de capturas".
+5. Gravou algo novo? Clique em "Verificar novamente".
+
+
+AJUDA
+-----
+Botão "Discord" dentro da ferramenta, ou:
+https://discord.gg/6aD5DqUmEz
+
+
+Produto gratuito disponibilizado por NunoFoxs | NFXS.

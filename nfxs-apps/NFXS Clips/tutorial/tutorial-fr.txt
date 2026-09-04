@@ -1,0 +1,38 @@
+NFXS | CLIPS
+============
+
+COMMENT L'OUVRIR
+-----------------
+Ouvrez "NFXS Hub" et cliquez sur la vignette "NFXS Clips".
+
+La première fois, Windows peut afficher "Windows a protégé votre PC".
+Cliquez sur "Plus d'infos" puis sur "Exécuter quand même".
+
+Cet outil n'enregistre RIEN - c'est Windows lui-même qui enregistre
+(Win+Alt+G sauvegarde les 30 dernières secondes, Win+Alt+R démarre/
+arrête l'enregistrement, Win+Alt+PrtScn prend une capture d'écran).
+NFXS Clips organise seulement ce qui a déjà été sauvegardé de cette
+façon.
+
+
+ÉTAPE PAR ÉTAPE
+----------------
+1. L'outil affiche immédiatement vos captures d'écran et clips
+   FiveM/RedM les plus récents, avec une miniature.
+2. Cliquez sur un élément pour l'ouvrir avec l'application par défaut
+   de votre PC.
+3. Vous ne trouvez pas l'enregistreur ? Cliquez sur "Ouvrir la barre
+   de jeu Windows (Win+G)".
+4. Vous voulez voir tous les fichiers ? Cliquez sur "Ouvrir le dossier
+   des captures".
+5. Vous avez enregistré quelque chose de nouveau ? Cliquez sur
+   "Vérifier à nouveau".
+
+
+AIDE
+----
+Bouton "Discord" dans l'outil, ou :
+https://discord.gg/6aD5DqUmEz
+
+
+Produit gratuit proposé par NunoFoxs | NFXS.

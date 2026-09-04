@@ -1,0 +1,33 @@
+NFXS | CRASHCHECK
+=================
+
+COMMENT L'OUVRIR
+-----------------
+Ouvrez "NFXS Hub" et cliquez sur la vignette "NFXS CrashCheck".
+
+La première fois, Windows peut afficher "Windows a protégé votre PC".
+Cliquez sur "Plus d'infos" puis sur "Exécuter quand même".
+
+
+ÉTAPE PAR ÉTAPE
+----------------
+1. L'outil affiche immédiatement la liste des plantages trouvés pour
+   votre FiveM et RedM, le plus récent en premier.
+2. Cliquez sur un élément de la liste pour voir le résultat : type de
+   problème, s'il vient plutôt de votre PC ou du serveur, quand c'est
+   arrivé, et les preuves.
+3. Vous voulez le détail technique (fichier, hash, stack trace) ?
+   Cliquez sur "Voir les détails techniques".
+4. "Copier le rapport" copie un texte prêt à coller sur Discord/un
+   ticket. "Exporter les fichiers (.zip)" enregistre sur le Bureau le
+   dump, le journal et le rapport ensemble.
+5. Nouveau plantage ? Cliquez sur "Vérifier à nouveau" dans la liste.
+
+
+AIDE
+----
+Bouton "Discord" dans l'outil, ou :
+https://discord.gg/6aD5DqUmEz
+
+
+Produit gratuit proposé par NunoFoxs | NFXS.

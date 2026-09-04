@@ -1,0 +1,33 @@
+NFXS | CRASHCHECK
+=================
+
+HOW TO OPEN
+-----------
+Open "NFXS Hub" and click the "NFXS CrashCheck" tile.
+
+The first time, Windows may show "Windows protected your PC". Click
+"More info" and then "Run anyway".
+
+
+STEP BY STEP
+------------
+1. The tool immediately shows the list of crashes found for your FiveM
+   and RedM, most recent first.
+2. Click one in the list to see the result: type of problem, whether
+   it's more likely your PC or the server, when it happened, and the
+   evidence.
+3. Want technical detail (file, hash, stack trace)? Click "View
+   technical details".
+4. "Copy report" copies a ready-to-paste text for Discord/a ticket.
+   "Export files (.zip)" saves the dump, log, and report together to
+   your Desktop.
+5. Crashed again? Click "Check again" in the list.
+
+
+HELP
+----
+"Discord" button inside the tool, or:
+https://discord.gg/6aD5DqUmEz
+
+
+Free product provided by NunoFoxs | NFXS.

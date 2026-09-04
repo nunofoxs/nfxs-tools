@@ -1,0 +1,37 @@
+NFXS | CONNECTION
+=================
+
+COMMENT L'OUVRIR
+-----------------
+Ouvrez "NFXS Hub" et cliquez sur la vignette "NFXS Connection".
+
+La première fois, Windows peut afficher "Windows a protégé votre PC".
+Cliquez sur "Plus d'infos" puis sur "Exécuter quand même".
+
+
+ÉTAPE PAR ÉTAPE
+----------------
+1. L'outil teste immédiatement votre internet et votre DNS dès
+   l'ouverture.
+2. Choisissez le jeu (FiveM ou RedM) et, si vous le souhaitez, entrez
+   l'adresse du serveur au format IP:port. Le champ est optionnel -
+   sans adresse, vous voyez quand même si votre internet/DNS sont
+   bons.
+3. L'outil indique s'il a réussi à atteindre le serveur, le temps de
+   réponse, et son nom - juste pour confirmer que vous testez le bon
+   serveur.
+4. Il affiche aussi un ping simple vers le serveur (latence/perte de
+   paquets) - c'est purement informatif, beaucoup de serveurs
+   bloquent le ping par sécurité même en étant bien en ligne.
+5. Dans la section "Diagnostic", l'outil rassemble tout et explique
+   simplement ce qui pourrait se passer.
+6. Tester à nouveau ? Cliquez sur "Vérifier à nouveau".
+
+
+AIDE
+----
+Bouton "Discord" dans l'outil, ou :
+https://discord.gg/6aD5DqUmEz
+
+
+Produit gratuit proposé par NunoFoxs | NFXS.

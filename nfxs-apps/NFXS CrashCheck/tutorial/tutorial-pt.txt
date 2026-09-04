@@ -1,0 +1,32 @@
+NFXS | CRASHCHECK
+=================
+
+COMO ABRIR
+----------
+Abra o "NFXS Hub" e clique no quadro "NFXS CrashCheck".
+
+Na primeira vez, o Windows pode mostrar "O Windows protegeu o seu PC".
+Clique em "Mais informações" e depois "Executar assim mesmo".
+
+
+PASSO A PASSO
+-------------
+1. A ferramenta já mostra a lista de crashes encontrados no seu FiveM e
+   RedM, mais recente primeiro.
+2. Clique em um da lista pra ver o resultado: tipo de problema, se é
+   mais do seu PC ou do servidor, quando aconteceu, e as evidências.
+3. Quer detalhe técnico (arquivo, hash, stack trace)? Clique em "Ver
+   detalhes técnicos".
+4. "Copiar relatório" copia um texto pronto pra colar no Discord/ticket.
+   "Exportar arquivos (.zip)" salva na Área de Trabalho o dump, o log e
+   o relatório juntos.
+5. Crashou de novo? Clique em "Verificar novamente" na lista.
+
+
+AJUDA
+-----
+Botão "Discord" dentro da ferramenta, ou:
+https://discord.gg/6aD5DqUmEz
+
+
+Produto gratuito disponibilizado por NunoFoxs | NFXS.
